@@ -1,4 +1,4 @@
-##About
+## About
 Hi, I'm Anya Zarembski, a sophomore studying Data Analytics and Mathematics at Drake Univeristy. I have experience working with Python, Java, R, and SAS and my coursework includes Intro to CS I & II, Machine Learning, Intro to R and SAS, and Computer Ethics, along with a variety of upper level math and statistics courses. I have a variety of projects I've worked on in my courses listed below. 
 
 
