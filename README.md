@@ -3,7 +3,7 @@ Hi, I'm Anya Zarembski, a sophomore studying Data Analytics and Mathematics at D
 
 # Projects
 ## World Happiness - October 2021
-This project uses machine learning algorithms, k-Nearest Neighbors, Decision Trees, and Randoom Forests, to predict the happiness of any given country based several variables. This project is contained in the World_Happiness.ipynb file. I did this project for my Machine Learning course using Python with Pandas and Sci-Kit Learn. 
+This project uses machine learning algorithms, k-Nearest Neighbors, Decision Trees, and Random Forests, to predict the happiness of any given country based several variables. This project is contained in the World_Happiness.ipynb file. I did this project for my Machine Learning course using Python with Pandas and Sci-Kit Learn. 
 
 ## Movie Review Sentiment Analysis - December 2021
 This project uses machine learning algorithms, principal component analysis, perceptron, multi-layer perceptron, and support vector classifier, to predict the sentiment of a given movie review. It is contained within the Sentiment_Analysis.ipynb file. This project was done for my Machine Learning course using Python, Pandas, and Sci-Kit Learn. 
