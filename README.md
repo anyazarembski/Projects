@@ -9,7 +9,7 @@ This project uses machine learning algorithms, k-Nearest Neighbors, Decision Tre
 This project uses machine learning algorithms, principal component analysis, perceptron, multi-layer perceptron, and support vector classifier, to predict the sentiment of a given movie review. It is contained within the Sentiment_Analysis.ipynb file. This project was done for my Machine Learning course using Python, Pandas, and Sci-Kit Learn. 
 
 ## Pneumonia Detection - November 2021
-This project seeks to predict whether an x-ray has pneumonia or not using computer vision though machine learning algorithms. This projects takes advamtage of keras and tensorflow to create 2D convolution layers. I did this project for my Machine Learning course and the project is housed in the Pneumonia_Detection.ipynb file. 
+This project seeks to predict whether an x-ray has pneumonia or not using computer vision though machine learning algorithms. This projects takes advantage of keras and tensorflow to create 2D convolution layers. I did this project for my Machine Learning course and the project is housed in the Pneumonia_Detection.ipynb file. 
 
 ## 2020 Election Data - May 2021
 This project was done for my Intro to R and SAS class. It uses to SAS to filter through 2020 Election Data and create several visualizations in order to compare election data based on different demographics. This was a group project in my Intro to R and SAS course and is contained in the Final_Project_Code.sas file. 
